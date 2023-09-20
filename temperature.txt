@@ -1,2 +1,1 @@
-# Lab2_Exercise
-Add a sentence for lab.
+The air temperature is 29 degrees today.
